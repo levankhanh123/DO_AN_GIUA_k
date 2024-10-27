@@ -1,0 +1,11 @@
+C:\Users\tranh\source\repos\Trex Endless Running Project\Trex Endless Running Project\obj\Debug\Trex Endless Running Project.csproj.AssemblyReference.cache
+C:\Users\tranh\source\repos\Trex Endless Running Project\Trex Endless Running Project\obj\Debug\Trex_Endless_Running_Project.Properties.Resources.resources
+C:\Users\tranh\source\repos\Trex Endless Running Project\Trex Endless Running Project\obj\Debug\Trex Endless Running Project.csproj.GenerateResource.cache
+C:\Users\tranh\source\repos\Trex Endless Running Project\Trex Endless Running Project\obj\Debug\Trex Endless Running Project.csproj.CoreCompileInputs.cache
+C:\Users\tranh\source\repos\Trex Endless Running Project\Trex Endless Running Project\bin\Debug\Trex Endless Running Project.exe.config
+C:\Users\tranh\source\repos\Trex Endless Running Project\Trex Endless Running Project\bin\Debug\Trex Endless Running Project.exe
+C:\Users\tranh\source\repos\Trex Endless Running Project\Trex Endless Running Project\bin\Debug\Trex Endless Running Project.pdb
+C:\Users\tranh\source\repos\Trex Endless Running Project\Trex Endless Running Project\obj\Debug\Trex Endless Running Project.exe
+C:\Users\tranh\source\repos\Trex Endless Running Project\Trex Endless Running Project\obj\Debug\Trex Endless Running Project.pdb
+C:\Users\tranh\source\repos\Trex Endless Running Project\Trex Endless Running Project\obj\Debug\Trex_Endless_Running_Project.Form1.resources
+C:\Users\tranh\source\repos\Trex Endless Running Project\Trex Endless Running Project\bin\Debug\Font\pixel.ttf
